@@ -1,1 +1,2 @@
-# MachineLearningLab
+# CSIT 602 Machine learning Lab work
+SANCHIT PATIDAR 0827CI191050
